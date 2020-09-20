@@ -41,7 +41,7 @@ JavaJam Coffee House
 </tr>
 <tr>
 <th>Iced Cappuccino</th>
-<td>Sweetened espresso blended with icy-cold milk and served in a chilled glass.<br>Single $4.75</td> Double $6.00
+<td>Sweetened espresso blended with icy-cold milk and served in a chilled glass.<brSingle $4.75 Double $6.00</td>
 </tr>
 </tbody></table>
 </main>

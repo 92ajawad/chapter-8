@@ -33,15 +33,15 @@ JavaJam Coffee House
 <table>
 <tbody><tr>
 <th>Just Java</th>
-<td>Regular house blend, decaffeinated coffee, or flavor of the day.<br><left>Endless Cup $2.00</left></td>
+<td>Regular house blend, decaffeinated coffee, or flavor of the day.<br><left>Endless Cup $3.00</left></td>
 </tr>
 <tr>
 <th>Cafe au Lait</th>
-<td>House blended coffee infused into a smooth, steamed milk.<br>Single $2.00 Double $4.00</td>
+<td>House blended coffee infused into a smooth, steamed milk.<br>Single $3.00 Double $4.00</td>
 </tr>
 <tr>
 <th>Iced Cappuccino</th>
-<td>Sweetened espresso blended with icy-cold milk and served in a chilled glass.<br>$4.75</td>
+<td>Sweetened espresso blended with icy-cold milk and served in a chilled glass.<br>Single $4.75</td> Double $6.00
 </tr>
 </tbody></table>
 </main>
